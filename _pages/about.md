@@ -16,7 +16,6 @@ news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-<div style="text-align: justify">
 
 Welcome to my page! I am a theoretical condensed matter physicist working in quantitative finance. I am a quantitative researcher at [One Eleven Capital](http://111cap.com).
 
@@ -28,6 +27,3 @@ Short CV:
 * MSc in Economics, Trinity College Dublin, Dublin, Ireland (2018)
 * MSc in Physics, University of Cologne, Cologne, Germany (2018)
 * BSc in Physics, University of Bonn, Bonn, Germany (2014)
-
-
-</div>
