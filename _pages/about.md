@@ -2,23 +2,28 @@
 layout: about
 title: about
 permalink: /
-description: Theoretical Physicist
+description: PhD in Theoretical Physics
 
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+#  address: >
+#    <p>555 your office number</p>
+#    <p>123 your address street</p>
+#    <p>Your City, State 12345</p>
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to my page! I am a theoretical condensed matter physicist working in quantitative finance. I am a quantitative researcher at [One Eleven Capital](http://111cap.com).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My main interests in physics are centred around the mathematical exploration of a novel class of materials - so-called topological insulators and superconductors - that might play a crucial role in the development of a new generation of computing devices.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Short CV:
+
+* PhD in Theoretical Physics, École Polytechnique, Paris, France (2021)
+* MSc in Economics, Trinity College Dublin, Dublin, Ireland (2018)
+* MSc in Physics, University of Cologne, Cologne, Germany (2018)
+* BSc in Physics, University of Bonn, Bonn, Germany (2014)
