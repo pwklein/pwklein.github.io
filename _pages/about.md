@@ -5,7 +5,7 @@ permalink: /
 description: PhD in Theoretical Physics
 
 profile:
-  align: right
+  align: justify
   image: prof_pic.jpg
 #  address: >
 #    <p>555 your office number</p>
