@@ -97,7 +97,7 @@ collections:
     output: true
     permalink: /news/:path/
   projects:
-    output: true
+    output: false
     permalink: /projects/:path/
 
 news_limit: 5
@@ -167,10 +167,10 @@ jekyll-archives:
     year: archive-year
     tag: archive-tag
     category: archive-category
-  permalinks:
-    year: '/blog/:year/'
-    tag: '/blog/tag/:name/'
-    category: '/blog/category/:name/'
+#  permalinks:
+#    year: '/blog/:year/'
+#    tag: '/blog/tag/:name/'
+#    category: '/blog/category/:name/'
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
